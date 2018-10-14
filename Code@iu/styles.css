@@ -1,0 +1,21 @@
+body{
+  background: url("img.jpg") no-repeat center center fixed;
+  background-size: cover;
+}
+
+#logo{
+  color:#F33;
+}
+
+#signup{
+  display: flex;
+  justify-content: center;
+  margin: 25%
+}
+
+#footer{
+  background-color: #343A40;
+  height: 60px;
+  display: flex;
+  align-items: flex-end;
+}
